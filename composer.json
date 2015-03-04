@@ -1,0 +1,10 @@
+{
+    "name": "Ben",
+    "license": "MIT",
+    "type": "project",
+    "description": "composer for wp",
+    "require": {
+        "johnpbloch/wordpress": "dev-master"
+    },
+    "minimum-stability": "stable"
+}
